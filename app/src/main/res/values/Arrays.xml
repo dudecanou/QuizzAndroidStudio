@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name = "quizz0">
+        <item>Qui est le 1er ministre du Canada?</item>
+    </string>
+    <array name = "choix0">
+        <item>Hollande</item>
+        <item>Trudeau</item>
+        <item>Chretien</item>
+    </array>
+    <string name = "reponse0">
+        <item>Trudeau</item>
+    </string>
+
+    <string name = "quizz1">
+        <item>Quelle couleur est le ciel?</item>
+        </string>
+    <array name = "choix1">
+                <item>Bleu</item>
+                <item>Blanc</item>
+                <item>Rouge</item>
+    </array>
+    <string name = "reponse1">
+        <item>Bleu</item>
+        </string>
+
+
+    <string name = "quizz2">
+        <item>Quelle forme est le ballon de foot?</item>
+    </string>
+    <array name = "choix2">
+            <item>Carre</item>
+            <item>Rectangulaire</item>
+            <item>Rond</item>
+    </array>
+    <string name = "reponse2">
+        <item>Rond</item>
+    </string>
+
+    <string name = "quizz3">
+        <item>Quelle ville se situe au Quebec?</item>
+    </string>
+    <array name = "choix3">
+        <item>Montreal</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+    </array>
+    <string name = "reponse3">
+        <item>Montreal</item>
+    </string>
+
+    <string name = "quizz4">
+        <item>Quelle sont les champions du monde 98?</item>
+    </string>
+    <array name = "choix4">
+        <item>France</item>
+        <item>Bresil</item>
+        <item>Allemagne</item>
+    </array>
+    <string name = "reponse4">
+        <item>France</item>
+    </string>
+
+    <string name = "quizz5">
+        <item>Ou se situe la Gaspesie?</item>
+    </string>
+    <array name = "choix5">
+        <item>Quebec</item>
+        <item>Ontario</item>
+        <item>Manitoba</item>
+    </array>
+    <string name = "reponse5">
+        <item>Quebec</item>
+    </string>
+
+    <string name = "quizz6">
+        <item>Quelle est la taille de Sarkozy?</item>
+    </string>
+    <array name = "choix6">
+        <item>1.50m</item>
+        <item>1.65m</item>
+        <item>1.80m</item>
+    </array>
+    <string name = "reponse6">
+        <item>1.65m</item>
+    </string>
+
+    <string name = "quizz7">
+        <item>Quelle equipe de Ligue 1 a remporter la Champions league?</item>
+    </string>
+    <array name = "choix7">
+        <item>Olympique de Marseille</item>
+        <item>Olympique Lyonnais</item>
+        <item>Paris Saint Germain</item>
+    </array>
+    <string name = "reponse7">
+        <item>Olympique de Marseille</item>
+    </string>
+
+    <string name = "quizz8">
+        <item>Ou se situe la ville de Angers?</item>
+    </string>
+    <array name = "choix8">
+        <item>France</item>
+        <item>Belgique</item>
+        <item>Algerie</item>
+    </array>
+    <string name = "reponse8">
+        <item>France</item>
+    </string>
+
+    <string name = "quizz9">
+        <item>Quelle est le pays voisin du Canada?</item>
+    </string>
+    <array name = "choix9">
+        <item>USA</item>
+        <item>Russie</item>
+        <item>Mexique</item>
+    </array>
+    <string name = "reponse9">
+        <item>USA</item>
+    </string>
+
+
+
+</resources>
